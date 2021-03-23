@@ -11,3 +11,4 @@ playing online:http://happybirthday.ltd/games/pacman
 playing online:http://happybirthday.ltd/games/taiqiu    
 playing online:http://happybirthday.ltd/games/tank    
 playing online:http://happybirthday.ltd/games/wuziqi    
+playing online:http://happybirthday.ltd/games/supermario    
